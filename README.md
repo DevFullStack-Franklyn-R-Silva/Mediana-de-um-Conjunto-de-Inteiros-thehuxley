@@ -1,5 +1,5 @@
 # Mediana de um Conjunto de Inteiros thehuxley
-
+https://www.thehuxley.com/problem/767?locale=pt_BR
 ## Descrição
 Escreva um programa que calcule a mediana dos valores lidos. A mediana é o valor numérico que separa a metade superior de um conjunto de dados, ou seja, uma vez que os dados lidos estejam ordenados, a mediana seria o valor central no caso de um conjunto com número ímpar de elementos e seria a média dos dois valores centrais no caso de um conjunto com número par de elementos.
 ## Formato de entrada
